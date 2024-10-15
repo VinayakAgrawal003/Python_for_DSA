@@ -1,4 +1,4 @@
-topics :
+Base topics :
 1. Python Basics ( Background part, Why we need programming, Why are you doing Python, Introduction)
 2. Variables 
 3. Input-Output
