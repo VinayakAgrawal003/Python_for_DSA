@@ -9,10 +9,11 @@ Q3 . How to use it?
 Ans. Write a function, write logic inside it, and call that function again.
 
 Questions for practice : 
+     
 NOTE: ALL THE BELOW QUESTIONS YOU HAVE TO DO WITH THR RECURSION.
 
-1. Print your name n times.
-2. Print linearly from 1 to n.
-3. Print reversed from 1 to n.
-4. Print the sum of 1st n numbers. 
+Q1. Print your name n times.
+Q2. Print linearly from 1 to n.
+Q3. Print reversed from 1 to n.
+Q4. Print the sum of 1st n numbers. 
      
