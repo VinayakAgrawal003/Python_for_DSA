@@ -16,4 +16,8 @@ Q1. Print your name n times.
 Q2. Print linearly from 1 to n.
 Q3. Print reversed from 1 to n.
 Q4. Print the sum of 1st n numbers. 
-     
+
+
+Q. What is the recursion tree?
+- When we create the flow of the program it is called a recursion tree. It is incremented first in left then right and in the same way read.
+- It helps in finding the time complexity of multiple recursion programs simply. 
