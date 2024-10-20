@@ -1,0 +1,7 @@
+Hashing:
+- Hashing is a technique of storing the key and value pair.
+- stored in hash table. Hash table is a data type.
+- we have arbitary value and we store in hash table.
+- time complexity of best and average case id O(1) and wordt case is O(n).
+- worst case happne in very big problem and most of the time we have O(1) as time complexity. 
+- in python we use dictionary data type to hashing and hashing is done internally. 
