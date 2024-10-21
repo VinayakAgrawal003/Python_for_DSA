@@ -34,3 +34,9 @@ and when the key is called value is answered.
 as we use a dictionary sane thing is here. 
 mapping is an important concept in Python coding. 
 its syntax is map()
+
+Q. how many types of mapping are there?
+Ans. there are 2 types of mapping :
+     1. ordered mapping 
+     2. unordered mapping 
+     each of them have there benefits. 
