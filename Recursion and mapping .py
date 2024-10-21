@@ -20,6 +20,17 @@ Q5. Recursion on Subsequence(order in which it is given)
 
 
 Q. What is the recursion tree?
-- When we create the flow of the program it is called a recursion tree. It is incremented first in left then right and in the same way read.
+When we create the program's flow, it is called a recursion tree. It is incremented first on the left, then on the right, and in the same way read.
 - It helps in finding the time complexity of multiple recursion programs simply. 
 
+
+
+
+
+MAPPING:
+
+Mapping is just like assigning a key or value pair.
+and when the key is called value is answered. 
+as we use a dictionary sane thing is here. 
+mapping is an important concept in Python coding. 
+its syntax is map()
