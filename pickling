@@ -1,0 +1,12 @@
+Q- What is pickling?
+Ans- it is conversion of dictionary format to binary format. 
+it is done to store and indexing. 
+we can say it is serilising and deserilising.
+it is used to maintain objct over data transfers 
+exampel:
+we create a moder then picke it and deploy in clous and then again use it 
+
+
+Syntex:
+we can import libraty to this task 
+import pickle
