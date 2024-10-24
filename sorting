@@ -1,0 +1,22 @@
+Q. what is sorting?
+Ans. arranging the given data in a perticular format is called sorting. example accending, decending, etc 
+
+Q. types of sorting?
+Ans.
+Selection sort: 
+     -
+
+
+
+Bubble sort:  Concept:-
+     - We have to take a unsorted array. 
+     - Then we have to make a bubble in the 1st element and then we have to compare them to the next element. 
+     - If the next element is smaller swap.
+     - and if thee next element is bigger then the bubble moves to the next element. 
+     - simple and this process goes on and on 
+     - time complexity is O(n2). Easy to calculate 
+
+     
+Insertion sorting:
+     - 
+     
