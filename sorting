@@ -4,14 +4,13 @@ Ans. arranging the given data in a perticular format is called sorting. example 
 Q. types of sorting?
 Ans.
 Selection sort: 
-     -
-Selection sort is a simple sorting algorithm that divides the input list into two parts: a sorted portion and an unsorted portion. It repeatedly selects the smallest (or largest) element from the unsorted portion and moves it to the end of the sorted portion. Here’s how it works step by step:
+     - Selection sort is a simple sorting algorithm that divides the input list into two parts: a sorted portion and an unsorted portion. It repeatedly selects the smallest (or largest) element from the unsorted portion and moves it to the end of the sorted portion. Here’s how it works step by step:
 
-Start: Begin with the first element as the sorted portion.
-Find the Minimum: Scan the unsorted portion to find the minimum element.
-Swap: Swap the found minimum element with the first element of the unsorted portion.
-Update: Move the boundary between sorted and unsorted portions one element to the right.
-Repeat: Repeat steps 2-4 until the entire list is sorted.
+     - Start: Begin with the first element as the sorted portion.
+     - Find the Minimum: Scan the unsorted portion to find the minimum element.
+     - Swap: Swap the found minimum element with the first element of the unsorted portion.
+     - Update: Move the boundary between sorted and unsorted portions one element to the right.
+     - Repeat: Repeat steps 2-4 until the entire list is sorted.
 
 
 Bubble sort:  Concept:-
