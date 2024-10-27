@@ -1,0 +1,40 @@
+Q. What is docstring?
+Ans. - Docstrinig is a comment that cannt be ignored and when called it print the string. 
+     - It has fix position that is after the calling of function and before the body of functiion. 
+  
+Q. What will it show if no docsting is there ?
+Ans. NONE is the output that will be shown.
+
+Example:
+  
+  def square(n):
+        '''i will show square 
+                   of the given input '''
+        print(n**2)
+        print(square.__doc__)
+  n = 2
+  OUTPUT:
+      4
+      i will show square of the given input  
+
+
+
+
+  
+Example:
+  
+  def square(n):
+        print(n)
+        '''i will show square 
+                   of the given input '''
+        print(n**2)
+        print(square.__doc__)
+  n = 2
+  OUTPUT:
+      4
+      NONE
+
+
+Q. What will be shown if we type import this?
+Ans. When we type import thi in Consol, we get Zen of Python. It is a poem written by Tim Peter.
+     it tell has very deep meaning 
