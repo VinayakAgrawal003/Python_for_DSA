@@ -1,14 +1,17 @@
 Q- What is pickling?
 Ans- it is the conversion of dictionary format to binary format. 
 it is done to store and indexing. 
-It is serialising and deserializing.
+It is serializing and deserializing.
 it is used to maintain objects over data transfers 
-help in maintaining the state of python object 
+to help maintain the state of Python object 
 
-exampel:
-we create a model pickle it and deploy in cloud and then again use it 
+example:
+we create a model pickle it and deploy in the cloud and then again use it 
 
 
 Syntex:
-we can import library to this task 
+we can import the library to this task 
 import pickle
+extension: pkl
+example: data = [1,2,3,4,5,6,7,8,9]
+         data.pkl
