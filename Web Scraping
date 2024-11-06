@@ -1,0 +1,19 @@
+Q. What is WEB SCRAPPING?
+ANS. web scrapping is the analysis of the website and extracting data with the help of BOT.
+It is the summation of the website data so that we can use that data according to our use. 
+web screpping has two terms called crawling and scrapping. 
+crawling searches for specific data and collects it 
+scrapping extracts it from the website 
+basic web scrapper collect data in HTML but the advanced web scrappers also reads the CSS and JSON files 
+they read the unstructured data and convert it into the 
+
+Q. Types of web scraping?
+Ans. There are three types of web scrapping:
+     1 self or pre-build: either you made and for that, you should have high knowledge or use the pre-build that someone else has built 
+     2 local or extension: use the space from the system and for the less amount of data
+     3 cloud: all the scrapping is done in the cloud and the processing of the computer is not affected. Use the tools and required space from cloud
+Q. What are the uses of web scrapping?
+Ans. 1 Sentiment analysis
+     2 gmail marketing
+     3 price monitoring
+     4 news monitoring
